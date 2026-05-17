@@ -1,0 +1,228 @@
+[
+  {
+    "id": "lo1-mat-fiz",
+    "school": "I LO im. Mikołaja Kopernika",
+    "address": "ul. Gabriela Narutowicza 65, Łódź",
+    "type": "LO",
+    "profile": "matematyczno-fizyczno-informatyczna",
+    "subjects": ["matematyka", "fizyka", "informatyka"],
+    "thresholds": { "2024": 163.5, "2023": 158.2 }
+  },
+  {
+    "id": "lo1-biol-chem",
+    "school": "I LO im. Mikołaja Kopernika",
+    "address": "ul. Gabriela Narutowicza 65, Łódź",
+    "type": "LO",
+    "profile": "biologiczno-chemiczna",
+    "subjects": ["biologia", "chemia"],
+    "thresholds": { "2024": 155.0, "2023": 149.8 }
+  },
+  {
+    "id": "lo2-hum-ang",
+    "school": "II LO im. Gabriela Narutowicza",
+    "address": "ul. Sosnowa 3, Łódź",
+    "type": "LO",
+    "profile": "humanistyczno-językowa (ang, niem)",
+    "subjects": ["historia", "wiedza o społeczeństwie"],
+    "thresholds": { "2024": 142.0, "2023": 138.5 }
+  },
+  {
+    "id": "lo2-mat-ang",
+    "school": "II LO im. Gabriela Narutowicza",
+    "address": "ul. Sosnowa 3, Łódź",
+    "type": "LO",
+    "profile": "matematyczno-angielska",
+    "subjects": ["matematyka", "język angielski"],
+    "thresholds": { "2024": 148.0, "2023": 144.3 }
+  },
+  {
+    "id": "lo3-mat-fiz",
+    "school": "III LO im. Tadeusza Kościuszki",
+    "address": "ul. Roosevelta 6, Łódź",
+    "type": "LO",
+    "profile": "matematyczno-fizyczna",
+    "subjects": ["matematyka", "fizyka"],
+    "thresholds": { "2024": 152.0, "2023": 147.0 }
+  },
+  {
+    "id": "lo3-biol-ang",
+    "school": "III LO im. Tadeusza Kościuszki",
+    "address": "ul. Roosevelta 6, Łódź",
+    "type": "LO",
+    "profile": "biologiczno-angielska",
+    "subjects": ["biologia", "język angielski"],
+    "thresholds": { "2024": 139.0, "2023": 135.0 }
+  },
+  {
+    "id": "lo4-mat-inf",
+    "school": "IV LO im. Emilii Sczanieckiej",
+    "address": "ul. Pomorska 16, Łódź",
+    "type": "LO",
+    "profile": "matematyczno-informatyczna",
+    "subjects": ["matematyka", "informatyka"],
+    "thresholds": { "2024": 145.0, "2023": 140.5 }
+  },
+  {
+    "id": "lo4-hum",
+    "school": "IV LO im. Emilii Sczanieckiej",
+    "address": "ul. Pomorska 16, Łódź",
+    "type": "LO",
+    "profile": "humanistyczna (j. polski, historia)",
+    "subjects": ["historia", "język polski"],
+    "thresholds": { "2024": 130.0, "2023": 126.0 }
+  },
+  {
+    "id": "lo6-mat-chem",
+    "school": "VI LO im. Joachima Lelewela",
+    "address": "ul. Spartan 6, Łódź",
+    "type": "LO",
+    "profile": "matematyczno-chemiczna",
+    "subjects": ["matematyka", "chemia"],
+    "thresholds": { "2024": 140.5, "2023": 136.0 }
+  },
+  {
+    "id": "lo6-biol-chem",
+    "school": "VI LO im. Joachima Lelewela",
+    "address": "ul. Spartan 6, Łódź",
+    "type": "LO",
+    "profile": "biologiczno-chemiczna (medyczna)",
+    "subjects": ["biologia", "chemia"],
+    "thresholds": { "2024": 144.0, "2023": 139.5 }
+  },
+  {
+    "id": "lo7-mat-geo",
+    "school": "VII LO im. Krzysztofa Kamila Baczyńskiego",
+    "address": "ul. Rewolucji 1905 r. nr 60, Łódź",
+    "type": "LO",
+    "profile": "geograficzno-matematyczna",
+    "subjects": ["geografia", "matematyka"],
+    "thresholds": { "2024": 125.0, "2023": 120.5 }
+  },
+  {
+    "id": "lo12-ang-hiszp",
+    "school": "XII LO im. Stanisława Wyspiańskiego",
+    "address": "ul. Bardowskiego 2, Łódź",
+    "type": "LO",
+    "profile": "dwujęzyczna angielsko-hiszpańska",
+    "subjects": ["język angielski", "język hiszpański"],
+    "thresholds": { "2024": 158.0, "2023": 153.0 }
+  },
+  {
+    "id": "lo14-mat-fiz-inf",
+    "school": "XIV LO im. Stanisława Staszica",
+    "address": "ul. Staszica 1/3, Łódź",
+    "type": "LO",
+    "profile": "matematyczno-fizyczno-informatyczna",
+    "subjects": ["matematyka", "fizyka", "informatyka"],
+    "thresholds": { "2024": 135.0, "2023": 130.0 }
+  },
+  {
+    "id": "lo16-biol-chem",
+    "school": "XVI LO im. Stefanii Sempołowskiej",
+    "address": "ul. Orzeszkowej 5, Łódź",
+    "type": "LO",
+    "profile": "biologiczno-chemiczna",
+    "subjects": ["biologia", "chemia"],
+    "thresholds": { "2024": 120.0, "2023": 115.5 }
+  },
+  {
+    "id": "t1-it",
+    "school": "Technikum nr 1 (ZSP nr 1)",
+    "address": "ul. Armii Krajowej 9, Łódź",
+    "type": "T",
+    "profile": "technik informatyk",
+    "subjects": ["matematyka", "informatyka"],
+    "thresholds": { "2024": 128.0, "2023": 122.5 }
+  },
+  {
+    "id": "t1-elek",
+    "school": "Technikum nr 1 (ZSP nr 1)",
+    "address": "ul. Armii Krajowej 9, Łódź",
+    "type": "T",
+    "profile": "technik elektronik",
+    "subjects": ["matematyka", "fizyka"],
+    "thresholds": { "2024": 115.0, "2023": 110.0 }
+  },
+  {
+    "id": "t3-log",
+    "school": "Technikum Logistyczne (ZSZ nr 3)",
+    "address": "ul. Żeromskiego 115, Łódź",
+    "type": "T",
+    "profile": "technik logistyk",
+    "subjects": ["matematyka", "geografia"],
+    "thresholds": { "2024": 100.0, "2023": 95.0 }
+  },
+  {
+    "id": "t-med",
+    "school": "Medyczne Studium Zawodowe",
+    "address": "ul. Lindleya 5, Łódź",
+    "type": "T",
+    "profile": "technik farmaceutyczny",
+    "subjects": ["biologia", "chemia"],
+    "thresholds": { "2024": 138.0, "2023": 133.0 }
+  },
+  {
+    "id": "t-gastro",
+    "school": "Technikum Gastronomiczne (ZSG)",
+    "address": "ul. Rewolucji 1905 r. nr 39, Łódź",
+    "type": "T",
+    "profile": "technik żywienia i usług gastronomicznych",
+    "subjects": ["biologia", "chemia"],
+    "thresholds": { "2024": 90.0, "2023": 85.0 }
+  },
+  {
+    "id": "t-ekon",
+    "school": "Technikum Ekonomiczne (ZSE)",
+    "address": "ul. Sterlinga 24, Łódź",
+    "type": "T",
+    "profile": "technik ekonomista",
+    "subjects": ["matematyka", "wiedza o społeczeństwie"],
+    "thresholds": { "2024": 110.0, "2023": 105.0 }
+  },
+  {
+    "id": "t-bud",
+    "school": "Technikum Budowlane (ZSB)",
+    "address": "ul. Kopcińskiego 30, Łódź",
+    "type": "T",
+    "profile": "technik budownictwa",
+    "subjects": ["matematyka", "fizyka"],
+    "thresholds": { "2024": 95.0, "2023": 90.0 }
+  },
+  {
+    "id": "bs1-mech",
+    "school": "Branżowa Szkoła I Stopnia nr 2",
+    "address": "ul. Przybyszewskiego 9, Łódź",
+    "type": "BS1",
+    "profile": "mechanik pojazdów samochodowych",
+    "subjects": ["matematyka", "fizyka"],
+    "thresholds": { "2024": 65.0, "2023": 60.0 }
+  },
+  {
+    "id": "bs1-fry",
+    "school": "Branżowa Szkoła I Stopnia nr 5",
+    "address": "ul. Wólczańska 202, Łódź",
+    "type": "BS1",
+    "profile": "fryzjer",
+    "subjects": ["chemia", "biologia"],
+    "thresholds": { "2024": 55.0, "2023": 50.0 }
+  },
+  {
+    "id": "lo18-sport",
+    "school": "XVIII LO (Sportowe)",
+    "address": "ul. Karolewska 58, Łódź",
+    "type": "LO",
+    "profile": "sportowa (piłka nożna / lekkoatletyka)",
+    "subjects": ["wychowanie fizyczne", "biologia"],
+    "thresholds": { "2024": 108.0, "2023": 104.0 }
+  },
+  {
+    "id": "lo20-mat",
+    "school": "XX LO im. Bolesława Prusa",
+    "address": "ul. Mikołaja Reja 7, Łódź",
+    "type": "LO",
+    "profile": "matematyczno-angielska",
+    "subjects": ["matematyka", "język angielski"],
+    "thresholds": { "2024": 118.0, "2023": 113.0 }
+  }
+]
+
