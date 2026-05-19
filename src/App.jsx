@@ -9,7 +9,7 @@ export default function App() {
   const activeTab = useStore((s) => s.activeTab);
 
   useEffect(() => {
-    fetch('/lodz-schools.json')
+    fetch(`${import.meta.env.BASE_URL}lodz-schools.json`)
       .then((r) => r.json())
       .then((data) => setSchools(data))
       .catch((err) => console.error('Błąd ładowania danych szkół:', err));
